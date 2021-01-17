@@ -1,0 +1,202 @@
+{
+  "length": [
+    {
+      "label": "Inches (in)",
+      "value": "0"
+    },
+    {
+      "label": "Feet (ft)",
+      "value": "1"
+    },
+    {
+      "label": "Yards (yd)",
+      "value": "2"
+    },
+    {
+      "label": "Miles",
+      "value": "3"
+    },
+    {
+      "label": "Millimetres (mm)",
+      "value": "4"
+    },
+    {
+      "label": "Centimetres (cm)",
+      "value": "5"
+    },
+    {
+      "label": "Metres (m)",
+      "value": "6"
+    },
+    {
+      "label": "Kilometres (km)",
+      "value": "7"
+    }
+  ],
+  "weight": [
+    {
+      "label": "Ounces (oz)",
+      "value": "0"
+    },
+    {
+      "label": "Pounds (lb)",
+      "value": "1"
+    },
+    {
+      "label": "Stone",
+      "value": "2"
+    },
+    {
+      "label": "UK Tons",
+      "value": "3"
+    },
+    {
+      "label": "US Tons",
+      "value": "4"
+    },
+    {
+      "label": "Grams (g)",
+      "value": "5"
+    },
+    {
+      "label": "Kilos (kg)",
+      "value": "6"
+    },
+    {
+      "label": "Metric Tons",
+      "value": "7"
+    }
+  ],
+  "square-area": [
+    {
+      "label": "Acres (ac)",
+      "value": "0"
+    },
+    {
+      "label": "Square Miles",
+      "value": "1"
+    },
+    {
+      "label": "Square Yards (sq yd)",
+      "value": "2"
+    },
+    {
+      "label": "Square Feet (sq ft)",
+      "value": "3"
+    },
+    {
+      "label": "Square Inches (sq in)",
+      "value": "4"
+    },
+    {
+      "label": "Hectares (ha)",
+      "value": "5"
+    },
+    {
+      "label": "Square Kilometre (km²)",
+      "value": "6"
+    },
+    {
+      "label": "Square Metres (m²)",
+      "value": "7"
+    },
+    {
+      "label": "Square Centimetres (cm²)",
+      "value": "8"
+    }
+  ],
+  "cubic-area": [
+    {
+      "label": "Cubic Foot",
+      "value": "0"
+    },
+    {
+      "label": "Cubic Yard",
+      "value": "1"
+    },
+    {
+      "label": "Cubic Metre",
+      "value": "2"
+    }
+  ],
+  "volume": [
+    {
+      "label": "UK Teaspoons (tsp)",
+      "value": "0"
+    },
+    {
+      "label": "US Teaspoons (tsp)",
+      "value": "1"
+    },
+    {
+      "label": "UK Tablespoons (tbsp)",
+      "value": "2"
+    },
+    {
+      "label": "US Tablespoons (tbsp)",
+      "value": "3"
+    },
+    {
+      "label": "UK Fluid Ounces (fl oz)",
+      "value": "4"
+    },
+    {
+      "label": "US Fluid Ounces (fl oz)",
+      "value": "5"
+    },
+    {
+      "label": "UK Cups (c)",
+      "value": "6"
+    },
+    {
+      "label": "US Cups (c)",
+      "value": "7"
+    },
+    {
+      "label": "UK Pints (pt)",
+      "value": "8"
+    },
+    {
+      "label": "US Pints (pt)",
+      "value": "9"
+    },
+    {
+      "label": "UK Quarts (qt)",
+      "value": "10"
+    },
+    {
+      "label": "US Quarts (qt)",
+      "value": "11"
+    },
+    {
+      "label": "UK Gallons (gal)",
+      "value": "12"
+    },
+    {
+      "label": "US Gallons (gal)",
+      "value": "13"
+    },
+    {
+      "label": "Millilitres (ml)",
+      "value": "14"
+    },
+    {
+      "label": "Litres (l)",
+      "value": "15"
+    }
+  ],
+  "temperature": [
+    {
+      "label": "Celsius (°C)",
+      "value": "0"
+    },
+    {
+      "label": "Fahrenheit (°F)",
+      "value": "1"
+    },
+    {
+      "label": "Kelvin (K)",
+      "value": "2"
+    }
+  ]
+}

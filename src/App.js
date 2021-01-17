@@ -1,24 +1,22 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import {LengthConversion} from './components/lengthConversion.js';
+import {WeightConversion} from './components/weightConversion.js';
+import {SquareAreaConversion} from './components/squareAreaConversion.js';
+import {CubicAreaConversion} from './components/cubicAreaConversion.js';
+import {VolumeConversion} from './components/volumeConversion.js';
+import {TemperatureConversion} from './components/temperatureConversion.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <LengthConversion />
+    <WeightConversion />
+    <SquareAreaConversion />
+    <CubicAreaConversion />
+    <VolumeConversion />
+    <TemperatureConversion />
+    </>
   );
 }
 
